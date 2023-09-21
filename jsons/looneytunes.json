@@ -1,0 +1,148 @@
+{
+    "cards": [
+        {
+            "name": "bugs",
+            "img": "img/looneytunes/bugs-1.png"
+        },
+        {
+            "name": "bugs",
+            "img": "img/looneytunes/bugs-2.png"
+        },
+        {
+            "name": "daffy",
+            "img": "img/looneytunes/daffy-1.png"
+        },
+        {
+            "name": "daffy",
+            "img": "img/looneytunes/daffy-2.png"
+        },
+        {
+            "name": "elmer",
+            "img": "img/looneytunes/elmer-1.png"
+        },
+        {
+            "name": "elmer",
+            "img": "img/looneytunes/elmer-2.png"
+        },
+        {
+            "name": "fifi",
+            "img": "img/looneytunes/fifi-1.png"
+        },
+        {
+            "name": "fifi",
+            "img": "img/looneytunes/fifi-2.png"
+        },
+        {
+            "name": "granny",
+            "img": "img/looneytunes/granny-1.png"
+        },
+        {
+            "name": "granny",
+            "img": "img/looneytunes/granny-2.png"
+        },
+        {
+            "name": "kogut",
+            "img": "img/looneytunes/kogut-1.png"
+        },
+        {
+            "name": "kogut",
+            "img": "img/looneytunes/kogut-2.png"
+        },
+        {
+            "name": "kojot",
+            "img": "img/looneytunes/kojot-1.png"
+        },
+        {
+            "name": "kojot",
+            "img": "img/looneytunes/kojot-2.png"
+        },
+        {
+            "name": "lola",
+            "img": "img/looneytunes/lola-1.png"
+        },
+        {
+            "name": "lola",
+            "img": "img/looneytunes/lola-2.png"
+        },
+        {
+            "name": "marsjanin",
+            "img": "img/looneytunes/marsjanin-1.png"
+        },
+        {
+            "name": "marsjanin",
+            "img": "img/looneytunes/marsjanin-2.png"
+        },
+        {
+            "name": "pew",
+            "img": "img/looneytunes/pew-1.png"
+        },
+        {
+            "name": "pew",
+            "img": "img/looneytunes/pew-2.png"
+        },
+        {
+            "name": "porky",
+            "img": "img/looneytunes/porky-1.png"
+        },
+        {
+            "name": "porky",
+            "img": "img/looneytunes/porky-2.png"
+        },
+        {
+            "name": "speedy",
+            "img": "img/looneytunes/speedy-1.png"
+        },
+        {
+            "name": "speedy",
+            "img": "img/looneytunes/speedy-2.png"
+        },
+        {
+            "name": "strus",
+            "img": "img/looneytunes/strus-1.png"
+        },
+        {
+            "name": "strus",
+            "img": "img/looneytunes/strus-2.png"
+        },
+        {
+            "name": "sylwester",
+            "img": "img/looneytunes/sylwester-1.png"
+        },
+        {
+            "name": "sylwester",
+            "img": "img/looneytunes/sylwester-2.png"
+        },
+        {
+            "name": "taz",
+            "img": "img/looneytunes/taz-1.png"
+        },
+        {
+            "name": "taz",
+            "img": "img/looneytunes/taz-2.png"
+        },
+        {
+            "name": "tina",
+            "img": "img/looneytunes/tina-1.png"
+        },
+        {
+            "name": "tina",
+            "img": "img/looneytunes/tina-2.png"
+        },
+        {
+            "name": "twity",
+            "img": "img/looneytunes/twity-1.png"
+        },
+        {
+            "name": "twity",
+            "img": "img/looneytunes/twity-2.png"
+        },
+        {
+            "name": "yosemite",
+            "img": "img/looneytunes/yosemite-1.png"
+        },
+        {
+            "name": "yosemite",
+            "img": "img/looneytunes/yosemite-2.png"
+        }
+    ]
+}

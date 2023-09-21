@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #373737;
+    cursor: default;
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    padding-top: 5px;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #fff;
+    cursor: default;
+}
+
+h3 {
+    max-width: 800px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    max-width: 800px;
+    min-height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    margin: auto;
+}
+
+img, main {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    user-drag: none;
+    -webkit-touch-callout: none;
+}
+
+
+
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.menuItem {
+    text-align: center;
+    margin: 10px;
+}
+
+.menuItem img {
+    width: 160px;
+    height: 160px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    filter: brightness(70%);
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.menuItem img:hover {
+    filter: brightness(100%);
+}
+
+
+
+
+
+.card {
+    width: 125px;
+    height: 125px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 2px;
+    perspective: 450px;
+    filter: brightness(70%);
+    transform-style: preserve-3d;
+    transition: all .5s ease-in-out;
+}
+
+.card:hover {
+    border-color: #9e8006;
+    filter: brightness(100%);
+}
+
+.cardActive {
+    width: 125px;
+    height: 125px;
+    border: 1px solid #9e8006;
+    border-radius: 5px;
+    cursor: default;
+    margin: 2px;
+    filter: brightness(100%);
+    animation: showImg .3s ease-out;
+}
+
+@keyframes showImg {
+    0% { opacity: 0; transform: rotateY(180deg); }
+    100% { opacity: 1; }
+}
+
+.endGame {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.endGame a {
+    color: #aaa;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    border: 2px solid #7c6004;
+    border-radius: 10px;
+    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+    transition: all .1s ease-in-out;
+}
+
+.endGame a:hover {
+    color: #fff;
+    border-color: #bfa228;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+
+

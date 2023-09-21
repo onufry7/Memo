@@ -1,0 +1,388 @@
+{
+    "cards": [
+        {
+            "name": "applejack",
+            "img": "img/mylittlepony/applejack.png"
+        },
+        {
+            "name": "applejack",
+            "img": "img/mylittlepony/applejack.png"
+        },
+        {
+            "name": "babs",
+            "img": "img/mylittlepony/babs.png"
+        },
+        {
+            "name": "babs",
+            "img": "img/mylittlepony/babs.png"
+        },
+        {
+            "name": "belle",
+            "img": "img/mylittlepony/belle.png"
+        },
+        {
+            "name": "belle",
+            "img": "img/mylittlepony/belle.png"
+        },
+        {
+            "name": "bigmac",
+            "img": "img/mylittlepony/bigmac.png"
+        },
+        {
+            "name": "bigmac",
+            "img": "img/mylittlepony/bigmac.png"
+        },
+        {
+            "name": "bloom",
+            "img": "img/mylittlepony/bloom.png"
+        },
+        {
+            "name": "bloom",
+            "img": "img/mylittlepony/bloom.png"
+        },
+        {
+            "name": "braeburn",
+            "img": "img/mylittlepony/braeburn.png"
+        },
+        {
+            "name": "braeburn",
+            "img": "img/mylittlepony/braeburn.png"
+        },
+        {
+            "name": "cadance",
+            "img": "img/mylittlepony/cadance.png"
+        },
+        {
+            "name": "cadance",
+            "img": "img/mylittlepony/cadance.png"
+        },
+        {
+            "name": "celestia",
+            "img": "img/mylittlepony/celestia.png"
+        },
+        {
+            "name": "celestia",
+            "img": "img/mylittlepony/celestia.png"
+        },
+        {
+            "name": "cheerilee ",
+            "img": "img/mylittlepony/cheerilee .png"
+        },
+        {
+            "name": "cheerilee ",
+            "img": "img/mylittlepony/cheerilee .png"
+        },
+        {
+            "name": "cheesesandwich",
+            "img": "img/mylittlepony/cheesesandwich.png"
+        },
+        {
+            "name": "cheesesandwich",
+            "img": "img/mylittlepony/cheesesandwich.png"
+        },
+        {
+            "name": "chrysalis",
+            "img": "img/mylittlepony/chrysalis.png"
+        },
+        {
+            "name": "chrysalis",
+            "img": "img/mylittlepony/chrysalis.png"
+        },
+        {
+            "name": "clyde",
+            "img": "img/mylittlepony/clyde.png"
+        },
+        {
+            "name": "clyde",
+            "img": "img/mylittlepony/clyde.png"
+        },
+        {
+            "name": "dash",
+            "img": "img/mylittlepony/dash.png"
+        },
+        {
+            "name": "dash",
+            "img": "img/mylittlepony/dash.png"
+        },
+        {
+            "name": "discord",
+            "img": "img/mylittlepony/discord.png"
+        },
+        {
+            "name": "discord",
+            "img": "img/mylittlepony/discord.png"
+        },
+        {
+            "name": "ember",
+            "img": "img/mylittlepony/ember.png"
+        },
+        {
+            "name": "ember",
+            "img": "img/mylittlepony/ember.png"
+        },
+        {
+            "name": "father",
+            "img": "img/mylittlepony/father.png"
+        },
+        {
+            "name": "father",
+            "img": "img/mylittlepony/father.png"
+        },
+        {
+            "name": "flashmagnus",
+            "img": "img/mylittlepony/flashmagnus.png"
+        },
+        {
+            "name": "flashmagnus",
+            "img": "img/mylittlepony/flashmagnus.png"
+        },
+        {
+            "name": "fluttershy",
+            "img": "img/mylittlepony/fluttershy.png"
+        },
+        {
+            "name": "fluttershy",
+            "img": "img/mylittlepony/fluttershy.png"
+        },
+        {
+            "name": "gooldendelicious",
+            "img": "img/mylittlepony/gooldendelicious.png"
+        },
+        {
+            "name": "gooldendelicious",
+            "img": "img/mylittlepony/gooldendelicious.png"
+        },
+        {
+            "name": "grandma",
+            "img": "img/mylittlepony/grandma.png"
+        },
+        {
+            "name": "grandma",
+            "img": "img/mylittlepony/grandma.png"
+        },
+        {
+            "name": "grimes",
+            "img": "img/mylittlepony/grimes.png"
+        },
+        {
+            "name": "grimes",
+            "img": "img/mylittlepony/grimes.png"
+        },
+        {
+            "name": "gryf",
+            "img": "img/mylittlepony/gryf.png"
+        },
+        {
+            "name": "gryf",
+            "img": "img/mylittlepony/gryf.png"
+        },
+        {
+            "name": "luna",
+            "img": "img/mylittlepony/luna.png"
+        },
+        {
+            "name": "luna",
+            "img": "img/mylittlepony/luna.png"
+        },
+        {
+            "name": "marble",
+            "img": "img/mylittlepony/marble.png"
+        },
+        {
+            "name": "marble",
+            "img": "img/mylittlepony/marble.png"
+        },
+        {
+            "name": "maud",
+            "img": "img/mylittlepony/maud.png"
+        },
+        {
+            "name": "maud",
+            "img": "img/mylittlepony/maud.png"
+        },
+        {
+            "name": "pearbutter",
+            "img": "img/mylittlepony/pearbutter.png"
+        },
+        {
+            "name": "pearbutter",
+            "img": "img/mylittlepony/pearbutter.png"
+        },
+        {
+            "name": "pharynx",
+            "img": "img/mylittlepony/pharynx.png"
+        },
+        {
+            "name": "pharynx",
+            "img": "img/mylittlepony/pharynx.png"
+        },
+        {
+            "name": "pinkie",
+            "img": "img/mylittlepony/pinkie.png"
+        },
+        {
+            "name": "pinkie",
+            "img": "img/mylittlepony/pinkie.png"
+        },
+        {
+            "name": "pngwing.com (6)",
+            "img": "img/mylittlepony/pngwing.com (6).png"
+        },
+        {
+            "name": "pngwing.com (6)",
+            "img": "img/mylittlepony/pngwing.com (6).png"
+        },
+        {
+            "name": "pony1",
+            "img": "img/mylittlepony/pony1.png"
+        },
+        {
+            "name": "pony1",
+            "img": "img/mylittlepony/pony1.png"
+        },
+        {
+            "name": "pony2",
+            "img": "img/mylittlepony/pony2.png"
+        },
+        {
+            "name": "pony2",
+            "img": "img/mylittlepony/pony2.png"
+        },
+        {
+            "name": "pony3",
+            "img": "img/mylittlepony/pony3.png"
+        },
+        {
+            "name": "pony3",
+            "img": "img/mylittlepony/pony3.png"
+        },
+        {
+            "name": "rarity",
+            "img": "img/mylittlepony/rarity.png"
+        },
+        {
+            "name": "rarity",
+            "img": "img/mylittlepony/rarity.png"
+        },
+        {
+            "name": "rockhoof",
+            "img": "img/mylittlepony/rockhoof.png"
+        },
+        {
+            "name": "rockhoof",
+            "img": "img/mylittlepony/rockhoof.png"
+        },
+        {
+            "name": "scootaloo",
+            "img": "img/mylittlepony/scootaloo.png"
+        },
+        {
+            "name": "scootaloo",
+            "img": "img/mylittlepony/scootaloo.png"
+        },
+        {
+            "name": "shiningarmor",
+            "img": "img/mylittlepony/shiningarmor.png"
+        },
+        {
+            "name": "shiningarmor",
+            "img": "img/mylittlepony/shiningarmor.png"
+        },
+        {
+            "name": "smolder",
+            "img": "img/mylittlepony/smolder.png"
+        },
+        {
+            "name": "smolder",
+            "img": "img/mylittlepony/smolder.png"
+        },
+        {
+            "name": "sombra",
+            "img": "img/mylittlepony/sombra.png"
+        },
+        {
+            "name": "sombra",
+            "img": "img/mylittlepony/sombra.png"
+        },
+        {
+            "name": "spike",
+            "img": "img/mylittlepony/spike.png"
+        },
+        {
+            "name": "spike",
+            "img": "img/mylittlepony/spike.png"
+        },
+        {
+            "name": "spitfire",
+            "img": "img/mylittlepony/spitfire.png"
+        },
+        {
+            "name": "spitfire",
+            "img": "img/mylittlepony/spitfire.png"
+        },
+        {
+            "name": "starlight",
+            "img": "img/mylittlepony/starlight.png"
+        },
+        {
+            "name": "starlight",
+            "img": "img/mylittlepony/starlight.png"
+        },
+        {
+            "name": "swirl",
+            "img": "img/mylittlepony/swirl.png"
+        },
+        {
+            "name": "swirl",
+            "img": "img/mylittlepony/swirl.png"
+        },
+        {
+            "name": "tiara",
+            "img": "img/mylittlepony/tiara.png"
+        },
+        {
+            "name": "tiara",
+            "img": "img/mylittlepony/tiara.png"
+        },
+        {
+            "name": "trixie",
+            "img": "img/mylittlepony/trixie.png"
+        },
+        {
+            "name": "trixie",
+            "img": "img/mylittlepony/trixie.png"
+        },
+        {
+            "name": "twilight",
+            "img": "img/mylittlepony/twilight.png"
+        },
+        {
+            "name": "twilight",
+            "img": "img/mylittlepony/twilight.png"
+        },
+        {
+            "name": "winged",
+            "img": "img/mylittlepony/winged.png"
+        },
+        {
+            "name": "winged",
+            "img": "img/mylittlepony/winged.png"
+        },
+        {
+            "name": "yona",
+            "img": "img/mylittlepony/yona.png"
+        },
+        {
+            "name": "yona",
+            "img": "img/mylittlepony/yona.png"
+        },
+        {
+            "name": "zecora",
+            "img": "img/mylittlepony/zecora.png"
+        },
+        {
+            "name": "zecora",
+            "img": "img/mylittlepony/zecora.png"
+        }
+    ]
+}

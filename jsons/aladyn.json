@@ -1,0 +1,148 @@
+{
+    "cards": [
+        {
+            "name": "abis",
+            "img": "img/aladyn/abis.png"
+        },
+        {
+            "name": "abis",
+            "img": "img/aladyn/abis.png"
+        },
+        {
+            "name": "abu",
+            "img": "img/aladyn/abu.png"
+        },
+        {
+            "name": "abu",
+            "img": "img/aladyn/abu.png"
+        },
+        {
+            "name": "aladyn",
+            "img": "img/aladyn/aladyn.png"
+        },
+        {
+            "name": "aladyn",
+            "img": "img/aladyn/aladyn.png"
+        },
+        {
+            "name": "dywan",
+            "img": "img/aladyn/dywan.png"
+        },
+        {
+            "name": "dywan",
+            "img": "img/aladyn/dywan.png"
+        },
+        {
+            "name": "dzin",
+            "img": "img/aladyn/dzin.png"
+        },
+        {
+            "name": "dzin",
+            "img": "img/aladyn/dzin.png"
+        },
+        {
+            "name": "guard1",
+            "img": "img/aladyn/guard1.png"
+        },
+        {
+            "name": "guard1",
+            "img": "img/aladyn/guard1.png"
+        },
+        {
+            "name": "guard2",
+            "img": "img/aladyn/guard2.png"
+        },
+        {
+            "name": "guard2",
+            "img": "img/aladyn/guard2.png"
+        },
+        {
+            "name": "jafar",
+            "img": "img/aladyn/jafar.png"
+        },
+        {
+            "name": "jafar",
+            "img": "img/aladyn/jafar.png"
+        },
+        {
+            "name": "jago",
+            "img": "img/aladyn/jago.png"
+        },
+        {
+            "name": "jago",
+            "img": "img/aladyn/jago.png"
+        },
+        {
+            "name": "jasmina",
+            "img": "img/aladyn/jasmina.png"
+        },
+        {
+            "name": "jasmina",
+            "img": "img/aladyn/jasmina.png"
+        },
+        {
+            "name": "lamp",
+            "img": "img/aladyn/lamp.png"
+        },
+        {
+            "name": "lamp",
+            "img": "img/aladyn/lamp.png"
+        },
+        {
+            "name": "mozenrath",
+            "img": "img/aladyn/mozenrath.png"
+        },
+        {
+            "name": "mozenrath",
+            "img": "img/aladyn/mozenrath.png"
+        },
+        {
+            "name": "rajah",
+            "img": "img/aladyn/rajah.png"
+        },
+        {
+            "name": "rajah",
+            "img": "img/aladyn/rajah.png"
+        },
+        {
+            "name": "sultan",
+            "img": "img/aladyn/sultan.png"
+        },
+        {
+            "name": "sultan",
+            "img": "img/aladyn/sultan.png"
+        },
+        {
+            "name": "team1",
+            "img": "img/aladyn/team1.png"
+        },
+        {
+            "name": "team1",
+            "img": "img/aladyn/team1.png"
+        },
+        {
+            "name": "team2",
+            "img": "img/aladyn/team2.png"
+        },
+        {
+            "name": "team2",
+            "img": "img/aladyn/team2.png"
+        },
+        {
+            "name": "team3",
+            "img": "img/aladyn/team3.png"
+        },
+        {
+            "name": "team3",
+            "img": "img/aladyn/team3.png"
+        },
+        {
+            "name": "team4",
+            "img": "img/aladyn/team4.png"
+        },
+        {
+            "name": "team4",
+            "img": "img/aladyn/team4.png"
+        }
+    ]
+}

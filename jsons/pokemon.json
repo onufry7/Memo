@@ -1,0 +1,388 @@
+{
+    "cards": [
+        {
+            "name": "1",
+            "img": "img/pokemon/1.png"
+        },
+        {
+            "name": "1",
+            "img": "img/pokemon/1.png"
+        },
+        {
+            "name": "10",
+            "img": "img/pokemon/10.png"
+        },
+        {
+            "name": "10",
+            "img": "img/pokemon/10.png"
+        },
+        {
+            "name": "114",
+            "img": "img/pokemon/114.png"
+        },
+        {
+            "name": "114",
+            "img": "img/pokemon/114.png"
+        },
+        {
+            "name": "115",
+            "img": "img/pokemon/115.png"
+        },
+        {
+            "name": "115",
+            "img": "img/pokemon/115.png"
+        },
+        {
+            "name": "118",
+            "img": "img/pokemon/118.png"
+        },
+        {
+            "name": "118",
+            "img": "img/pokemon/118.png"
+        },
+        {
+            "name": "12",
+            "img": "img/pokemon/12.png"
+        },
+        {
+            "name": "12",
+            "img": "img/pokemon/12.png"
+        },
+        {
+            "name": "123",
+            "img": "img/pokemon/123.png"
+        },
+        {
+            "name": "123",
+            "img": "img/pokemon/123.png"
+        },
+        {
+            "name": "125",
+            "img": "img/pokemon/125.png"
+        },
+        {
+            "name": "125",
+            "img": "img/pokemon/125.png"
+        },
+        {
+            "name": "128",
+            "img": "img/pokemon/128.png"
+        },
+        {
+            "name": "128",
+            "img": "img/pokemon/128.png"
+        },
+        {
+            "name": "13",
+            "img": "img/pokemon/13.png"
+        },
+        {
+            "name": "13",
+            "img": "img/pokemon/13.png"
+        },
+        {
+            "name": "131",
+            "img": "img/pokemon/131.png"
+        },
+        {
+            "name": "131",
+            "img": "img/pokemon/131.png"
+        },
+        {
+            "name": "133",
+            "img": "img/pokemon/133.png"
+        },
+        {
+            "name": "133",
+            "img": "img/pokemon/133.png"
+        },
+        {
+            "name": "134",
+            "img": "img/pokemon/134.png"
+        },
+        {
+            "name": "134",
+            "img": "img/pokemon/134.png"
+        },
+        {
+            "name": "135",
+            "img": "img/pokemon/135.png"
+        },
+        {
+            "name": "135",
+            "img": "img/pokemon/135.png"
+        },
+        {
+            "name": "136",
+            "img": "img/pokemon/136.png"
+        },
+        {
+            "name": "136",
+            "img": "img/pokemon/136.png"
+        },
+        {
+            "name": "140",
+            "img": "img/pokemon/140.png"
+        },
+        {
+            "name": "140",
+            "img": "img/pokemon/140.png"
+        },
+        {
+            "name": "149",
+            "img": "img/pokemon/149.png"
+        },
+        {
+            "name": "149",
+            "img": "img/pokemon/149.png"
+        },
+        {
+            "name": "15",
+            "img": "img/pokemon/15.png"
+        },
+        {
+            "name": "15",
+            "img": "img/pokemon/15.png"
+        },
+        {
+            "name": "150",
+            "img": "img/pokemon/150.png"
+        },
+        {
+            "name": "150",
+            "img": "img/pokemon/150.png"
+        },
+        {
+            "name": "151",
+            "img": "img/pokemon/151.png"
+        },
+        {
+            "name": "151",
+            "img": "img/pokemon/151.png"
+        },
+        {
+            "name": "2",
+            "img": "img/pokemon/2.png"
+        },
+        {
+            "name": "2",
+            "img": "img/pokemon/2.png"
+        },
+        {
+            "name": "24",
+            "img": "img/pokemon/24.png"
+        },
+        {
+            "name": "24",
+            "img": "img/pokemon/24.png"
+        },
+        {
+            "name": "25",
+            "img": "img/pokemon/25.png"
+        },
+        {
+            "name": "25",
+            "img": "img/pokemon/25.png"
+        },
+        {
+            "name": "27",
+            "img": "img/pokemon/27.png"
+        },
+        {
+            "name": "27",
+            "img": "img/pokemon/27.png"
+        },
+        {
+            "name": "28",
+            "img": "img/pokemon/28.png"
+        },
+        {
+            "name": "28",
+            "img": "img/pokemon/28.png"
+        },
+        {
+            "name": "3",
+            "img": "img/pokemon/3.png"
+        },
+        {
+            "name": "3",
+            "img": "img/pokemon/3.png"
+        },
+        {
+            "name": "31",
+            "img": "img/pokemon/31.png"
+        },
+        {
+            "name": "31",
+            "img": "img/pokemon/31.png"
+        },
+        {
+            "name": "38",
+            "img": "img/pokemon/38.png"
+        },
+        {
+            "name": "38",
+            "img": "img/pokemon/38.png"
+        },
+        {
+            "name": "4",
+            "img": "img/pokemon/4.png"
+        },
+        {
+            "name": "4",
+            "img": "img/pokemon/4.png"
+        },
+        {
+            "name": "41",
+            "img": "img/pokemon/41.png"
+        },
+        {
+            "name": "41",
+            "img": "img/pokemon/41.png"
+        },
+        {
+            "name": "44",
+            "img": "img/pokemon/44.png"
+        },
+        {
+            "name": "44",
+            "img": "img/pokemon/44.png"
+        },
+        {
+            "name": "48",
+            "img": "img/pokemon/48.png"
+        },
+        {
+            "name": "48",
+            "img": "img/pokemon/48.png"
+        },
+        {
+            "name": "5",
+            "img": "img/pokemon/5.png"
+        },
+        {
+            "name": "5",
+            "img": "img/pokemon/5.png"
+        },
+        {
+            "name": "51",
+            "img": "img/pokemon/51.png"
+        },
+        {
+            "name": "51",
+            "img": "img/pokemon/51.png"
+        },
+        {
+            "name": "52",
+            "img": "img/pokemon/52.png"
+        },
+        {
+            "name": "52",
+            "img": "img/pokemon/52.png"
+        },
+        {
+            "name": "54",
+            "img": "img/pokemon/54.png"
+        },
+        {
+            "name": "54",
+            "img": "img/pokemon/54.png"
+        },
+        {
+            "name": "59",
+            "img": "img/pokemon/59.png"
+        },
+        {
+            "name": "59",
+            "img": "img/pokemon/59.png"
+        },
+        {
+            "name": "6",
+            "img": "img/pokemon/6.png"
+        },
+        {
+            "name": "6",
+            "img": "img/pokemon/6.png"
+        },
+        {
+            "name": "65",
+            "img": "img/pokemon/65.png"
+        },
+        {
+            "name": "65",
+            "img": "img/pokemon/65.png"
+        },
+        {
+            "name": "68",
+            "img": "img/pokemon/68.png"
+        },
+        {
+            "name": "68",
+            "img": "img/pokemon/68.png"
+        },
+        {
+            "name": "7",
+            "img": "img/pokemon/7.png"
+        },
+        {
+            "name": "7",
+            "img": "img/pokemon/7.png"
+        },
+        {
+            "name": "70",
+            "img": "img/pokemon/70.png"
+        },
+        {
+            "name": "70",
+            "img": "img/pokemon/70.png"
+        },
+        {
+            "name": "8",
+            "img": "img/pokemon/8.png"
+        },
+        {
+            "name": "8",
+            "img": "img/pokemon/8.png"
+        },
+        {
+            "name": "80",
+            "img": "img/pokemon/80.png"
+        },
+        {
+            "name": "80",
+            "img": "img/pokemon/80.png"
+        },
+        {
+            "name": "83",
+            "img": "img/pokemon/83.png"
+        },
+        {
+            "name": "83",
+            "img": "img/pokemon/83.png"
+        },
+        {
+            "name": "85",
+            "img": "img/pokemon/85.png"
+        },
+        {
+            "name": "85",
+            "img": "img/pokemon/85.png"
+        },
+        {
+            "name": "9",
+            "img": "img/pokemon/9.png"
+        },
+        {
+            "name": "9",
+            "img": "img/pokemon/9.png"
+        },
+        {
+            "name": "93",
+            "img": "img/pokemon/93.png"
+        },
+        {
+            "name": "93",
+            "img": "img/pokemon/93.png"
+        }
+    ]
+}

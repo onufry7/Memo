@@ -1,0 +1,324 @@
+{
+    "cards": [
+        {
+            "name": "bib1",
+            "img": "img/smurfs/bib1.png"
+        },
+        {
+            "name": "bib1",
+            "img": "img/smurfs/bib1.png"
+        },
+        {
+            "name": "dreamer1",
+            "img": "img/smurfs/dreamer1.png"
+        },
+        {
+            "name": "dreamer1",
+            "img": "img/smurfs/dreamer1.png"
+        },
+        {
+            "name": "dude1",
+            "img": "img/smurfs/dude1.png"
+        },
+        {
+            "name": "dude1",
+            "img": "img/smurfs/dude1.png"
+        },
+        {
+            "name": "farmer1",
+            "img": "img/smurfs/farmer1.png"
+        },
+        {
+            "name": "farmer1",
+            "img": "img/smurfs/farmer1.png"
+        },
+        {
+            "name": "farmer2",
+            "img": "img/smurfs/farmer2.png"
+        },
+        {
+            "name": "farmer2",
+            "img": "img/smurfs/farmer2.png"
+        },
+        {
+            "name": "gargamel1",
+            "img": "img/smurfs/gargamel1.png"
+        },
+        {
+            "name": "gargamel1",
+            "img": "img/smurfs/gargamel1.png"
+        },
+        {
+            "name": "gourmand1",
+            "img": "img/smurfs/gourmand1.png"
+        },
+        {
+            "name": "gourmand1",
+            "img": "img/smurfs/gourmand1.png"
+        },
+        {
+            "name": "grandpa1",
+            "img": "img/smurfs/grandpa1.png"
+        },
+        {
+            "name": "grandpa1",
+            "img": "img/smurfs/grandpa1.png"
+        },
+        {
+            "name": "harmony1",
+            "img": "img/smurfs/harmony1.png"
+        },
+        {
+            "name": "harmony1",
+            "img": "img/smurfs/harmony1.png"
+        },
+        {
+            "name": "klakier1",
+            "img": "img/smurfs/klakier1.png"
+        },
+        {
+            "name": "klakier1",
+            "img": "img/smurfs/klakier1.png"
+        },
+        {
+            "name": "lingerer1",
+            "img": "img/smurfs/lingerer1.png"
+        },
+        {
+            "name": "lingerer1",
+            "img": "img/smurfs/lingerer1.png"
+        },
+        {
+            "name": "lingerer2",
+            "img": "img/smurfs/lingerer2.png"
+        },
+        {
+            "name": "lingerer2",
+            "img": "img/smurfs/lingerer2.png"
+        },
+        {
+            "name": "miner1",
+            "img": "img/smurfs/miner1.png"
+        },
+        {
+            "name": "miner1",
+            "img": "img/smurfs/miner1.png"
+        },
+        {
+            "name": "mischief1",
+            "img": "img/smurfs/mischief1.png"
+        },
+        {
+            "name": "mischief1",
+            "img": "img/smurfs/mischief1.png"
+        },
+        {
+            "name": "nany1",
+            "img": "img/smurfs/nany1.png"
+        },
+        {
+            "name": "nany1",
+            "img": "img/smurfs/nany1.png"
+        },
+        {
+            "name": "nat1",
+            "img": "img/smurfs/nat1.png"
+        },
+        {
+            "name": "nat1",
+            "img": "img/smurfs/nat1.png"
+        },
+        {
+            "name": "painter1",
+            "img": "img/smurfs/painter1.png"
+        },
+        {
+            "name": "painter1",
+            "img": "img/smurfs/painter1.png"
+        },
+        {
+            "name": "panjandrum1",
+            "img": "img/smurfs/panjandrum1.png"
+        },
+        {
+            "name": "panjandrum1",
+            "img": "img/smurfs/panjandrum1.png"
+        },
+        {
+            "name": "papa1",
+            "img": "img/smurfs/papa1.png"
+        },
+        {
+            "name": "papa1",
+            "img": "img/smurfs/papa1.png"
+        },
+        {
+            "name": "papa2",
+            "img": "img/smurfs/papa2.png"
+        },
+        {
+            "name": "papa2",
+            "img": "img/smurfs/papa2.png"
+        },
+        {
+            "name": "papa3",
+            "img": "img/smurfs/papa3.png"
+        },
+        {
+            "name": "papa3",
+            "img": "img/smurfs/papa3.png"
+        },
+        {
+            "name": "poet1",
+            "img": "img/smurfs/poet1.png"
+        },
+        {
+            "name": "poet1",
+            "img": "img/smurfs/poet1.png"
+        },
+        {
+            "name": "poeta2",
+            "img": "img/smurfs/poeta2.png"
+        },
+        {
+            "name": "poeta2",
+            "img": "img/smurfs/poeta2.png"
+        },
+        {
+            "name": "postman1",
+            "img": "img/smurfs/postman1.png"
+        },
+        {
+            "name": "postman1",
+            "img": "img/smurfs/postman1.png"
+        },
+        {
+            "name": "sasetka1",
+            "img": "img/smurfs/sasetka1.png"
+        },
+        {
+            "name": "sasetka1",
+            "img": "img/smurfs/sasetka1.png"
+        },
+        {
+            "name": "shrew1",
+            "img": "img/smurfs/shrew1.png"
+        },
+        {
+            "name": "shrew1",
+            "img": "img/smurfs/shrew1.png"
+        },
+        {
+            "name": "sleepyhead1",
+            "img": "img/smurfs/sleepyhead1.png"
+        },
+        {
+            "name": "sleepyhead1",
+            "img": "img/smurfs/sleepyhead1.png"
+        },
+        {
+            "name": "sleepyhead2",
+            "img": "img/smurfs/sleepyhead2.png"
+        },
+        {
+            "name": "sleepyhead2",
+            "img": "img/smurfs/sleepyhead2.png"
+        },
+        {
+            "name": "slouch1",
+            "img": "img/smurfs/slouch1.png"
+        },
+        {
+            "name": "slouch1",
+            "img": "img/smurfs/slouch1.png"
+        },
+        {
+            "name": "slouch2",
+            "img": "img/smurfs/slouch2.png"
+        },
+        {
+            "name": "slouch2",
+            "img": "img/smurfs/slouch2.png"
+        },
+        {
+            "name": "smurf1",
+            "img": "img/smurfs/smurf1.png"
+        },
+        {
+            "name": "smurf1",
+            "img": "img/smurfs/smurf1.png"
+        },
+        {
+            "name": "smurfett2",
+            "img": "img/smurfs/smurfett2.png"
+        },
+        {
+            "name": "smurfett2",
+            "img": "img/smurfs/smurfett2.png"
+        },
+        {
+            "name": "smurfette1",
+            "img": "img/smurfs/smurfette1.png"
+        },
+        {
+            "name": "smurfette1",
+            "img": "img/smurfs/smurfette1.png"
+        },
+        {
+            "name": "smurfette3",
+            "img": "img/smurfs/smurfette3.png"
+        },
+        {
+            "name": "smurfette3",
+            "img": "img/smurfs/smurfette3.png"
+        },
+        {
+            "name": "strong1",
+            "img": "img/smurfs/strong1.png"
+        },
+        {
+            "name": "strong1",
+            "img": "img/smurfs/strong1.png"
+        },
+        {
+            "name": "tailor1",
+            "img": "img/smurfs/tailor1.png"
+        },
+        {
+            "name": "tailor1",
+            "img": "img/smurfs/tailor1.png"
+        },
+        {
+            "name": "wild1",
+            "img": "img/smurfs/wild1.png"
+        },
+        {
+            "name": "wild1",
+            "img": "img/smurfs/wild1.png"
+        },
+        {
+            "name": "woolly1",
+            "img": "img/smurfs/woolly1.png"
+        },
+        {
+            "name": "woolly1",
+            "img": "img/smurfs/woolly1.png"
+        },
+        {
+            "name": "workaholic1",
+            "img": "img/smurfs/workaholic1.png"
+        },
+        {
+            "name": "workaholic1",
+            "img": "img/smurfs/workaholic1.png"
+        },
+        {
+            "name": "workaholic2",
+            "img": "img/smurfs/workaholic2.png"
+        },
+        {
+            "name": "workaholic2",
+            "img": "img/smurfs/workaholic2.png"
+        }
+    ]
+}

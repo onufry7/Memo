@@ -1,0 +1,84 @@
+{
+    "cards": [
+        {
+            "name": "gofer",
+            "img": "img/puchatek/gofer-1.png"
+        },
+        {
+            "name": "gofer",
+            "img": "img/puchatek/gofer-2.png"
+        },
+        {
+            "name": "kango",
+            "img": "img/puchatek/kango-1.png"
+        },
+        {
+            "name": "kango",
+            "img": "img/puchatek/kango-2jpg.png"
+        },
+        {
+            "name": "klapouch",
+            "img": "img/puchatek/klapouch-1.png"
+        },
+        {
+            "name": "klapouch",
+            "img": "img/puchatek/klapouch-2.png"
+        },
+        {
+            "name": "lumpy",
+            "img": "img/puchatek/lumpy-1.png"
+        },
+        {
+            "name": "lumpy",
+            "img": "img/puchatek/lumpy-2.png"
+        },
+        {
+            "name": "maluch",
+            "img": "img/puchatek/maluch-1.png"
+        },
+        {
+            "name": "maluch",
+            "img": "img/puchatek/maluch-2.png"
+        },
+        {
+            "name": "prosiaczek",
+            "img": "img/puchatek/prosiaczek-1.png"
+        },
+        {
+            "name": "prosiaczek",
+            "img": "img/puchatek/prosiaczek-2.png"
+        },
+        {
+            "name": "puchatek",
+            "img": "img/puchatek/puchatek-1.png"
+        },
+        {
+            "name": "puchatek",
+            "img": "img/puchatek/puchatek-2.png"
+        },
+        {
+            "name": "rabbit",
+            "img": "img/puchatek/rabbit-1.png"
+        },
+        {
+            "name": "rabbit",
+            "img": "img/puchatek/rabbit-2.png"
+        },
+        {
+            "name": "sowa",
+            "img": "img/puchatek/sowa-1.png"
+        },
+        {
+            "name": "sowa",
+            "img": "img/puchatek/sowa-2.png"
+        },
+        {
+            "name": "tygrysek",
+            "img": "img/puchatek/tygrysek-1.png"
+        },
+        {
+            "name": "tygrysek",
+            "img": "img/puchatek/tygrysek-2.png"
+        }
+    ]
+}

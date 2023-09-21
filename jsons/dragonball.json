@@ -1,0 +1,580 @@
+{
+    "cards": [
+        {
+            "name": "android-16",
+            "img": "img/dragonball/android-16-1.png"
+        },
+        {
+            "name": "android-16",
+            "img": "img/dragonball/android-16-2.png"
+        },
+        {
+            "name": "android-17",
+            "img": "img/dragonball/android-17-1.png"
+        },
+        {
+            "name": "android-17",
+            "img": "img/dragonball/android-17-2.png"
+        },
+        {
+            "name": "android-18",
+            "img": "img/dragonball/android-18-1.png"
+        },
+        {
+            "name": "android-18",
+            "img": "img/dragonball/android-18-2.png"
+        },
+        {
+            "name": "android-19",
+            "img": "img/dragonball/android-19-1.png"
+        },
+        {
+            "name": "android-19",
+            "img": "img/dragonball/android-19-2.png"
+        },
+        {
+            "name": "babidi",
+            "img": "img/dragonball/babidi-1.png"
+        },
+        {
+            "name": "babidi",
+            "img": "img/dragonball/babidi-2.png"
+        },
+        {
+            "name": "beerus",
+            "img": "img/dragonball/beerus-1.png"
+        },
+        {
+            "name": "beerus",
+            "img": "img/dragonball/beerus-2.png"
+        },
+        {
+            "name": "bra",
+            "img": "img/dragonball/bra-1.png"
+        },
+        {
+            "name": "bra",
+            "img": "img/dragonball/bra-2.png"
+        },
+        {
+            "name": "bulma",
+            "img": "img/dragonball/bulma-1.png"
+        },
+        {
+            "name": "bulma",
+            "img": "img/dragonball/bulma-2.png"
+        },
+        {
+            "name": "bulma-young",
+            "img": "img/dragonball/bulma-young-1.png"
+        },
+        {
+            "name": "bulma-young",
+            "img": "img/dragonball/bulma-young-2.png"
+        },
+        {
+            "name": "buter",
+            "img": "img/dragonball/buter-1.png"
+        },
+        {
+            "name": "buter",
+            "img": "img/dragonball/buter-2.png"
+        },
+        {
+            "name": "buu-fat",
+            "img": "img/dragonball/buu-fat-1.png"
+        },
+        {
+            "name": "buu-fat",
+            "img": "img/dragonball/buu-fat-2.png"
+        },
+        {
+            "name": "cell-perfect",
+            "img": "img/dragonball/cell-perfect-1.png"
+        },
+        {
+            "name": "cell-perfect",
+            "img": "img/dragonball/cell-perfect-2.png"
+        },
+        {
+            "name": "chiaotzu",
+            "img": "img/dragonball/chiaotzu-1.png"
+        },
+        {
+            "name": "chiaotzu",
+            "img": "img/dragonball/chiaotzu-2.png"
+        },
+        {
+            "name": "chichi",
+            "img": "img/dragonball/chichi-1.png"
+        },
+        {
+            "name": "chichi",
+            "img": "img/dragonball/chichi-2.png"
+        },
+        {
+            "name": "cooler",
+            "img": "img/dragonball/cooler-1.png"
+        },
+        {
+            "name": "cooler",
+            "img": "img/dragonball/cooler-2.png"
+        },
+        {
+            "name": "dabura",
+            "img": "img/dragonball/dabura-1.png"
+        },
+        {
+            "name": "dabura",
+            "img": "img/dragonball/dabura-2.png"
+        },
+        {
+            "name": "dende",
+            "img": "img/dragonball/dande-1.png"
+        },
+        {
+            "name": "dende",
+            "img": "img/dragonball/dende-2.png"
+        },
+        {
+            "name": "dragon",
+            "img": "img/dragonball/dragon-1.png"
+        },
+        {
+            "name": "dragon",
+            "img": "img/dragonball/dragon-2.png"
+        },
+        {
+            "name": "gill",
+            "img": "img/dragonball/gill-1.png"
+        },
+        {
+            "name": "gill",
+            "img": "img/dragonball/gill-2.png"
+        },
+        {
+            "name": "ginyu",
+            "img": "img/dragonball/ginyu-1.png"
+        },
+        {
+            "name": "ginyu",
+            "img": "img/dragonball/ginyu-2.png"
+        },
+        {
+            "name": "gohan-teen-ssj",
+            "img": "img/dragonball/gohan-teen-ssj-1.png"
+        },
+        {
+            "name": "gohan-teen-ssj",
+            "img": "img/dragonball/gohan-teen-ssj-2.png"
+        },
+        {
+            "name": "gohan-young",
+            "img": "img/dragonball/gohan-young-1.png"
+        },
+        {
+            "name": "gohan-young",
+            "img": "img/dragonball/gohan-young-2.png"
+        },
+        {
+            "name": "goku",
+            "img": "img/dragonball/goku-1.png"
+        },
+        {
+            "name": "goku",
+            "img": "img/dragonball/goku-2.png"
+        },
+        {
+            "name": "goku-ssj3",
+            "img": "img/dragonball/goku-ssj3-1.png"
+        },
+        {
+            "name": "goku-ssj3",
+            "img": "img/dragonball/goku-ssj3-2.png"
+        },
+        {
+            "name": "goku-ssj4",
+            "img": "img/dragonball/goku-ssj4-1.png"
+        },
+        {
+            "name": "goku-ssj4",
+            "img": "img/dragonball/goku-ssj4-2.png"
+        },
+        {
+            "name": "goku-young",
+            "img": "img/dragonball/goku-young-1.png"
+        },
+        {
+            "name": "goku-young",
+            "img": "img/dragonball/goku-young-2.png"
+        },
+        {
+            "name": "gold-friza",
+            "img": "img/dragonball/gold-friza-1.png"
+        },
+        {
+            "name": "gold-friza",
+            "img": "img/dragonball/gold-friza-2.png"
+        },
+        {
+            "name": "goten",
+            "img": "img/dragonball/goten-1.png"
+        },
+        {
+            "name": "goten",
+            "img": "img/dragonball/goten-2.png"
+        },
+        {
+            "name": "guldo",
+            "img": "img/dragonball/guldo-1.png"
+        },
+        {
+            "name": "guldo",
+            "img": "img/dragonball/guldo-2.png"
+        },
+        {
+            "name": "hercules",
+            "img": "img/dragonball/hercules-1.png"
+        },
+        {
+            "name": "hercules",
+            "img": "img/dragonball/hercules-2.png"
+        },
+        {
+            "name": "kaio-est",
+            "img": "img/dragonball/kaio-est-1.png"
+        },
+        {
+            "name": "kaio-est",
+            "img": "img/dragonball/kaio-est-2.png"
+        },
+        {
+            "name": "kaio-nord",
+            "img": "img/dragonball/kaio-nord-1.png"
+        },
+        {
+            "name": "kaio-nord",
+            "img": "img/dragonball/kaio-nord-2.png"
+        },
+        {
+            "name": "kaio-sout",
+            "img": "img/dragonball/kaio-sout-1.png"
+        },
+        {
+            "name": "kaio-sout",
+            "img": "img/dragonball/kaio-sout-2.png"
+        },
+        {
+            "name": "kaio-west",
+            "img": "img/dragonball/kaio-west-1.png"
+        },
+        {
+            "name": "kaio-west",
+            "img": "img/dragonball/kaio-west-2.png"
+        },
+        {
+            "name": "kaioshin",
+            "img": "img/dragonball/kaioshin-1.png"
+        },
+        {
+            "name": "kaioshin",
+            "img": "img/dragonball/kaioshin-2.png"
+        },
+        {
+            "name": "kami",
+            "img": "img/dragonball/kami-1.png"
+        },
+        {
+            "name": "kami",
+            "img": "img/dragonball/kami-2.png"
+        },
+        {
+            "name": "kibito",
+            "img": "img/dragonball/kibito-1.png"
+        },
+        {
+            "name": "kibito",
+            "img": "img/dragonball/kibito-2.png"
+        },
+        {
+            "name": "korin",
+            "img": "img/dragonball/korin-1.png"
+        },
+        {
+            "name": "korin",
+            "img": "img/dragonball/korin-2.png"
+        },
+        {
+            "name": "krilan",
+            "img": "img/dragonball/krilan-1.png"
+        },
+        {
+            "name": "krilan",
+            "img": "img/dragonball/krilan-2.png"
+        },
+        {
+            "name": "launch-bad",
+            "img": "img/dragonball/launch-bad-1.png"
+        },
+        {
+            "name": "launch-bad",
+            "img": "img/dragonball/launch-bad-2.png"
+        },
+        {
+            "name": "launch-good",
+            "img": "img/dragonball/launch-good-1.png"
+        },
+        {
+            "name": "launch-good",
+            "img": "img/dragonball/launch-good-2.png"
+        },
+        {
+            "name": "mai",
+            "img": "img/dragonball/mai-1.png"
+        },
+        {
+            "name": "mai",
+            "img": "img/dragonball/mai-2.png"
+        },
+        {
+            "name": "nail",
+            "img": "img/dragonball/nail-1.png"
+        },
+        {
+            "name": "nail",
+            "img": "img/dragonball/nail-2.png"
+        },
+        {
+            "name": "nappa",
+            "img": "img/dragonball/nappa-1.png"
+        },
+        {
+            "name": "nappa",
+            "img": "img/dragonball/nappa-2.png"
+        },
+        {
+            "name": "oolong",
+            "img": "img/dragonball/oolong-1.png"
+        },
+        {
+            "name": "oolong",
+            "img": "img/dragonball/oolong-2.png"
+        },
+        {
+            "name": "pan",
+            "img": "img/dragonball/pan-1.png"
+        },
+        {
+            "name": "pan",
+            "img": "img/dragonball/pan-2.png"
+        },
+        {
+            "name": "picolo",
+            "img": "img/dragonball/picolo-1.png"
+        },
+        {
+            "name": "picolo",
+            "img": "img/dragonball/picolo-2.png"
+        },
+        {
+            "name": "pikkon",
+            "img": "img/dragonball/pikkon-1.png"
+        },
+        {
+            "name": "pikkon",
+            "img": "img/dragonball/pikkon-2.png"
+        },
+        {
+            "name": "pilaf",
+            "img": "img/dragonball/pilaf-1.png"
+        },
+        {
+            "name": "pilaf",
+            "img": "img/dragonball/pilaf-2.png"
+        },
+        {
+            "name": "popo",
+            "img": "img/dragonball/popo-1.png"
+        },
+        {
+            "name": "popo",
+            "img": "img/dragonball/popo-2.png"
+        },
+        {
+            "name": "puar",
+            "img": "img/dragonball/puar-1.png"
+        },
+        {
+            "name": "puar",
+            "img": "img/dragonball/puar-2.png"
+        },
+        {
+            "name": "raditz",
+            "img": "img/dragonball/raditz-1.png"
+        },
+        {
+            "name": "raditz",
+            "img": "img/dragonball/raditz-2.png"
+        },
+        {
+            "name": "recoome",
+            "img": "img/dragonball/recoome-1.png"
+        },
+        {
+            "name": "recoome",
+            "img": "img/dragonball/recoome-2.png"
+        },
+        {
+            "name": "roshi",
+            "img": "img/dragonball/roshi-1.png"
+        },
+        {
+            "name": "roshi",
+            "img": "img/dragonball/roshi-2.png"
+        },
+        {
+            "name": "shenron",
+            "img": "img/dragonball/shenron-1.png"
+        },
+        {
+            "name": "shenron",
+            "img": "img/dragonball/shenron-2.png"
+        },
+        {
+            "name": "shin",
+            "img": "img/dragonball/shin-1.png"
+        },
+        {
+            "name": "shin",
+            "img": "img/dragonball/shin-2.png"
+        },
+        {
+            "name": "tao-pai-pai",
+            "img": "img/dragonball/tao-pai-pai-1.png"
+        },
+        {
+            "name": "tao-pai-pai",
+            "img": "img/dragonball/tao-pai-pai-2.png"
+        },
+        {
+            "name": "tien",
+            "img": "img/dragonball/tien-1.png"
+        },
+        {
+            "name": "tien",
+            "img": "img/dragonball/tien-2.png"
+        },
+        {
+            "name": "trunks",
+            "img": "img/dragonball/trunks-1.png"
+        },
+        {
+            "name": "trunks",
+            "img": "img/dragonball/trunks-2.png"
+        },
+        {
+            "name": "trunks-ssj",
+            "img": "img/dragonball/trunks-ssj-1.png"
+        },
+        {
+            "name": "trunks-ssj",
+            "img": "img/dragonball/trunks-ssj-2.png"
+        },
+        {
+            "name": "trunks-young",
+            "img": "img/dragonball/trunks-young-1.png"
+        },
+        {
+            "name": "trunks-young",
+            "img": "img/dragonball/trunks-young-2.png"
+        },
+        {
+            "name": "tsuru",
+            "img": "img/dragonball/tsuru-1.png"
+        },
+        {
+            "name": "tsuru",
+            "img": "img/dragonball/tsuru-2.png"
+        },
+        {
+            "name": "uub",
+            "img": "img/dragonball/uub-1.png"
+        },
+        {
+            "name": "uub",
+            "img": "img/dragonball/uub-2.png"
+        },
+        {
+            "name": "vegeta",
+            "img": "img/dragonball/vegeta-1.png"
+        },
+        {
+            "name": "vegeta",
+            "img": "img/dragonball/vegeta-2.png"
+        },
+        {
+            "name": "vegeta-ssj2",
+            "img": "img/dragonball/vegeta-ssj2-1.png"
+        },
+        {
+            "name": "vegeta-ssj2",
+            "img": "img/dragonball/vegeta-ssj2-2.png"
+        },
+        {
+            "name": "vegeta-ssj4",
+            "img": "img/dragonball/vegeta-ssj4-1.png"
+        },
+        {
+            "name": "vegeta-ssj4",
+            "img": "img/dragonball/vegeta-ssj4-2.png"
+        },
+        {
+            "name": "videl",
+            "img": "img/dragonball/videl-1.png"
+        },
+        {
+            "name": "videl",
+            "img": "img/dragonball/videl-2.png"
+        },
+        {
+            "name": "wish",
+            "img": "img/dragonball/wish-1.png"
+        },
+        {
+            "name": "wish",
+            "img": "img/dragonball/wish-2.png"
+        },
+        {
+            "name": "yajirobe",
+            "img": "img/dragonball/yajirobe-1.png"
+        },
+        {
+            "name": "yajirobe",
+            "img": "img/dragonball/yajirobe-2.png"
+        },
+        {
+            "name": "yamcha",
+            "img": "img/dragonball/yamcha-1.png"
+        },
+        {
+            "name": "yamcha",
+            "img": "img/dragonball/yamcha-2.png"
+        },
+        {
+            "name": "zamasu",
+            "img": "img/dragonball/zamasu-1.png"
+        },
+        {
+            "name": "zamasu",
+            "img": "img/dragonball/zamasu-2.png"
+        },
+        {
+            "name": "zarbon",
+            "img": "img/dragonball/zarbon-1.png"
+        },
+        {
+            "name": "zarbon",
+            "img": "img/dragonball/zarbon-2.png"
+        }
+    ]
+}

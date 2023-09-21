@@ -1,0 +1,68 @@
+{
+    "cards" : [
+        {
+            "name": "garfield",
+            "img": "img/garfield/garfield.png"
+        },
+        {
+            "name": "odie",
+            "img": "img/garfield/odie.png"
+        },
+        {
+            "name": "nermal",
+            "img": "img/garfield/nermal.png"
+        },
+        {
+            "name": "john",
+            "img": "img/garfield/john.png"
+        },
+        {
+            "name": "liz",
+            "img": "img/garfield/liz.png"
+        },
+        {
+            "name": "arlene",
+            "img": "img/garfield/arlene.png"
+        },
+        {
+            "name": "harry",
+            "img": "img/garfield/harry.png"
+        },
+        {
+            "name": "squeak",
+            "img": "img/garfield/squeak.png"
+        },
+        {
+            "name": "garfield",
+            "img": "img/garfield/garfield.png"
+        },
+        {
+            "name": "odie",
+            "img": "img/garfield/odie.png"
+        },
+        {
+            "name": "nermal",
+            "img": "img/garfield/nermal.png"
+        },
+        {
+            "name": "john",
+            "img": "img/garfield/john.png"
+        },
+        {
+            "name": "liz",
+            "img": "img/garfield/liz.png"
+        },
+        {
+            "name": "arlene",
+            "img": "img/garfield/arlene.png"
+        },
+        {
+            "name": "harry",
+            "img": "img/garfield/harry.png"
+        },
+        {
+            "name": "squeak",
+            "img": "img/garfield/squeak.png"
+        }
+    ]
+}
