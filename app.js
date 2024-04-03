@@ -4,27 +4,30 @@ let whichGame
 const menuItems = document.querySelectorAll('.menuItem img')
 const gridDisplay = document.querySelector('main')
 const resultDisplay = document.querySelector('#result')
-const approachDisplay = document.querySelector('#approach')
+const attemptDisplay = document.querySelector('#attempt')
 const cardsWon = []
 let selectCards = []
 let selectCardIds = []
-let approach = 0
-let lock = false;
+let attempt = 0
+let lock = false
+let numbersOfAllPairs = 0
 
 
-function createBoard()
+function updateScore()
 {
-    for(let i = 0; i < cardsArray.length; i++)
-    {
-        const card = document.createElement('img')
-        card.classList.add('card')
-        card.setAttribute('src', 'img/'+whichGame+'/0.png')
-        card.setAttribute('data-id', i)
-        card.addEventListener('click', flipCard)
-        gridDisplay.appendChild(card)
-    }
+    attemptDisplay.textContent = ++attempt
+    resultDisplay.textContent = cardsWon.length + ' / ' + numbersOfAllPairs
 }
 
+
+function checkEndGame()
+{
+    if(cardsWon.length == cardsArray.length/2)
+    {
+        const esterEgg1 = (whichGame === 'pokemon') ? 'catch' : 'found'
+        gridDisplay.innerHTML = '<p class="endGame">Congratulations You '+esterEgg1+' them all!<br><br><a href="index.html">New Game</a></p>'
+    }
+}
 
 
 function checkMatch()
@@ -42,31 +45,33 @@ function checkMatch()
     else
     {
         selectCardIds.forEach(cardId => {
-            cards[cardId].setAttribute('src', 'img/'+whichGame+'/0.png')
-            cards[cardId].addEventListener('click', flipCard)
-            cards[cardId].addEventListener('click', flipCard)
             cards[cardId].classList.remove('cardActive')
+            cards[cardId].classList.add('cardFlipped')
+
+            setTimeout(function() {
+                cards[cardId].setAttribute('src', 'img/' + whichGame + '/0.png')
+                cards[cardId].classList.remove('cardFlipped')
+                cards[cardId].addEventListener('click', flipCard)
+                if (!cards[cardId].hasAttribute('data-clicked')) {
+                    cards[cardId].setAttribute('data-clicked', 'true')
+                }
+            }, 200)
         })
     }
 
-    approachDisplay.textContent = ++approach
-    resultDisplay.textContent = cardsWon.length
     selectCards = []
     selectCardIds = []
     lock = false
 
-    if(cardsWon.length == cardsArray.length/2)
-    {
-        const esterEgg1 = (whichGame === 'pokemon') ? 'catch' : 'found'
-        gridDisplay.innerHTML = '<p class="endGame">Congratulations You '+esterEgg1+' them all!<br><br><a href="index.html">New Game</a></p>'
-    }
+    updateScore()
+    checkEndGame()
 }
 
 
 function flipCard()
 {
     if (lock) return false
-    
+
     let cardId = this.getAttribute('data-id')
 
     selectCards.push(cardsArray[cardId].name)
@@ -83,6 +88,22 @@ function flipCard()
     }
 }
 
+
+function createBoard()
+{
+    resultDisplay.textContent = cardsWon.length + ' / ' + numbersOfAllPairs
+
+    for(let i = 0; i < cardsArray.length; i++)
+    {
+        const card = document.createElement('img')
+        card.classList.add('card')
+        card.setAttribute('src', 'img/'+whichGame+'/0.png')
+        card.setAttribute('data-id', i)
+        card.setAttribute('draggable', false)
+        card.addEventListener('click', flipCard)
+        gridDisplay.appendChild(card)
+    }
+}
 
 
 async function runGame()
@@ -103,7 +124,10 @@ async function runGame()
 
     gridDisplay.innerHTML = ''
     gridDisplay.style.maxWidth = gridWidth+'px'
-    gridDisplay.style.minHeight = gridHeight+'px'
+    gridDisplay.style.minHeight = gridHeight + 'px'
+
+    numbersOfAllPairs = cardsArray.length / 2
+
     createBoard()
 }
 

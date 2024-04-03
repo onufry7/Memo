@@ -1,89 +1,93 @@
 <!DOCTYPE html>
 <html lang="pl">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="style.css" rel="stylesheet">
-        <script defer src="app.js" charset="utf-8"></script>
-        <title>Memory Game</title>
-    </head>
-    <body>
-        <h1><a href="/">MEMORY GAME</a></h1>
-        <h3>
-            <div>Score: <span id="result">0</span></div>
-            <div>Approach: <span id="approach">0</span></div>
-        </h3>
-        <main>
-            <div class="menu">
-                <div class="menuItem">
-                    <img src="img/menu/zootopia.png" alt="Zootopia">
-                    <footer>(6x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/garfield.png" alt="Garfield">
-                    <footer>(4x4)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/dragonball.png" alt="DragonBall" style="background-color: #f92;">
-                    <footer>(12x12)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/hanabarbera.png" alt="HanaBarbera">
-                    <footer>(6x6)</footer>
-                </div>
 
-                <div class="menuItem">
-                    <img src="img/menu/smurfs.png" alt="Smurfs">
-                    <footer>(10x8)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/pokemon.png" alt="Pokemon">
-                    <footer>(12x8)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/puchatek.png" alt="Puchatek">
-                    <footer>(5x4)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/gumisie.png" alt="Gumisie">
-                    <footer>(6x6)</footer>
-                </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+    <script defer src="app.js" charset="utf-8"></script>
+    <title>Memory Game</title>
+</head>
 
-                <div class="menuItem">
-                    <img src="img/menu/disnayprincesses.png" alt="DisnayPrincesses">
-                    <footer>(6x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/ducktails.png" alt="Ducktails">
-                    <footer>(7x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/looneytunes.png" alt="LooneyTunes">
-                    <footer>(6x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/lionking.png" alt="LionKing">
-                    <footer>(8x6)</footer>
-                </div>
-
-                <div class="menuItem">
-                    <img src="img/menu/aladyn.png" alt="Aladyn">
-                    <footer>(6x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/muminki.png" alt="muminki">
-                    <footer>(8x6)</footer>
-                </div>
-                <div class="menuItem">
-                    <img src="img/menu/mylittlepony.png" alt="MyLittlePony" style="background-color: #ac8;">
-                    <footer>(12x8)</footer>
-                </div>
-                <!-- <div class="menuItem">
-                    <img src="img/menu/blank.png" alt="blank">
-                    <footer>(0x0)</footer>
-                </div> -->
-
+<body>
+    <h1><a href="/memory/index.html">MEMORY GAME</a></h1>
+    <h3>
+        <div>Found: <span id="result">0 / 0</span></div>
+        <div>Attempt: <span id="attempt">0</span></div>
+    </h3>
+    <main>
+        <div class="menu">
+            <div class="menuItem">
+                <img src="img/menu/zootopia.png" alt="Zootopia" draggable="false">
+                <footer>(6x6)</footer>
             </div>
-        </main>
-    </body>
+            <div class="menuItem">
+                <img src="img/menu/garfield.png" alt="Garfield" draggable="false">
+                <footer>(4x4)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/dragonball.png" alt="DragonBall" style="background-color: #f92;" draggable="false">
+                <footer>(12x12)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/hanabarbera.png" alt="HanaBarbera" draggable="false">
+                <footer>(6x6)</footer>
+            </div>
+
+            <div class="menuItem">
+                <img src="img/menu/smurfs.png" alt="Smurfs" draggable="false">
+                <footer>(10x8)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/pokemon.png" alt="Pokemon" draggable="false">
+                <footer>(12x8)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/puchatek.png" alt="Puchatek" draggable="false">
+                <footer>(5x4)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/gumisie.png" alt="Gumisie" draggable="false">
+                <footer>(6x6)</footer>
+            </div>
+
+            <div class="menuItem">
+                <img src="img/menu/disnayprincesses.png" alt="DisnayPrincesses" draggable="false">
+                <footer>(6x6)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/ducktails.png" alt="Ducktails" draggable="false">
+                <footer>(7x6)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/looneytunes.png" alt="LooneyTunes" draggable="false">
+                <footer>(6x6)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/lionking.png" alt="LionKing" draggable="false">
+                <footer>(8x6)</footer>
+            </div>
+
+            <div class="menuItem">
+                <img src="img/menu/aladyn.png" alt="Aladyn" draggable="false">
+                <footer>(6x6)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/muminki.png" alt="muminki" draggable="false">
+                <footer>(8x6)</footer>
+            </div>
+            <div class="menuItem">
+                <img src="img/menu/mylittlepony.png" alt="MyLittlePony" style="background-color: #ac8;"
+                    draggable="false">
+                <footer>(12x8)</footer>
+            </div>
+            <!-- <div class="menuItem">
+                <img src="img/menu/blank.png" alt="blank" draggable="false">
+                <footer>(0x0)</footer>
+            </div> -->
+
+        </div>
+    </main>
+</body>
+
 </html>
