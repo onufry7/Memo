@@ -2,67 +2,67 @@
     "cards" : [
         {
             "name": "garfield",
-            "img": "img/garfield/garfield.png"
+            "img": "img/garfield/garfield.webp"
         },
         {
             "name": "odie",
-            "img": "img/garfield/odie.png"
+            "img": "img/garfield/odie.webp"
         },
         {
             "name": "nermal",
-            "img": "img/garfield/nermal.png"
+            "img": "img/garfield/nermal.webp"
         },
         {
             "name": "john",
-            "img": "img/garfield/john.png"
+            "img": "img/garfield/john.webp"
         },
         {
             "name": "liz",
-            "img": "img/garfield/liz.png"
+            "img": "img/garfield/liz.webp"
         },
         {
             "name": "arlene",
-            "img": "img/garfield/arlene.png"
+            "img": "img/garfield/arlene.webp"
         },
         {
             "name": "harry",
-            "img": "img/garfield/harry.png"
+            "img": "img/garfield/harry.webp"
         },
         {
             "name": "squeak",
-            "img": "img/garfield/squeak.png"
+            "img": "img/garfield/squeak.webp"
         },
         {
             "name": "garfield",
-            "img": "img/garfield/garfield.png"
+            "img": "img/garfield/garfield.webp"
         },
         {
             "name": "odie",
-            "img": "img/garfield/odie.png"
+            "img": "img/garfield/odie.webp"
         },
         {
             "name": "nermal",
-            "img": "img/garfield/nermal.png"
+            "img": "img/garfield/nermal.webp"
         },
         {
             "name": "john",
-            "img": "img/garfield/john.png"
+            "img": "img/garfield/john.webp"
         },
         {
             "name": "liz",
-            "img": "img/garfield/liz.png"
+            "img": "img/garfield/liz.webp"
         },
         {
             "name": "arlene",
-            "img": "img/garfield/arlene.png"
+            "img": "img/garfield/arlene.webp"
         },
         {
             "name": "harry",
-            "img": "img/garfield/harry.png"
+            "img": "img/garfield/harry.webp"
         },
         {
             "name": "squeak",
-            "img": "img/garfield/squeak.png"
+            "img": "img/garfield/squeak.webp"
         }
     ]
 }

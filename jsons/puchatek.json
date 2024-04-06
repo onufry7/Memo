@@ -2,83 +2,83 @@
     "cards": [
         {
             "name": "gofer",
-            "img": "img/puchatek/gofer-1.png"
+            "img": "img/puchatek/gofer-1.webp"
         },
         {
             "name": "gofer",
-            "img": "img/puchatek/gofer-2.png"
+            "img": "img/puchatek/gofer-2.webp"
         },
         {
             "name": "kango",
-            "img": "img/puchatek/kango-1.png"
+            "img": "img/puchatek/kango-1.webp"
         },
         {
             "name": "kango",
-            "img": "img/puchatek/kango-2jpg.png"
+            "img": "img/puchatek/kango-2jpg.webp"
         },
         {
             "name": "klapouch",
-            "img": "img/puchatek/klapouch-1.png"
+            "img": "img/puchatek/klapouch-1.webp"
         },
         {
             "name": "klapouch",
-            "img": "img/puchatek/klapouch-2.png"
+            "img": "img/puchatek/klapouch-2.webp"
         },
         {
             "name": "lumpy",
-            "img": "img/puchatek/lumpy-1.png"
+            "img": "img/puchatek/lumpy-1.webp"
         },
         {
             "name": "lumpy",
-            "img": "img/puchatek/lumpy-2.png"
+            "img": "img/puchatek/lumpy-2.webp"
         },
         {
             "name": "maluch",
-            "img": "img/puchatek/maluch-1.png"
+            "img": "img/puchatek/maluch-1.webp"
         },
         {
             "name": "maluch",
-            "img": "img/puchatek/maluch-2.png"
+            "img": "img/puchatek/maluch-2.webp"
         },
         {
             "name": "prosiaczek",
-            "img": "img/puchatek/prosiaczek-1.png"
+            "img": "img/puchatek/prosiaczek-1.webp"
         },
         {
             "name": "prosiaczek",
-            "img": "img/puchatek/prosiaczek-2.png"
+            "img": "img/puchatek/prosiaczek-2.webp"
         },
         {
             "name": "puchatek",
-            "img": "img/puchatek/puchatek-1.png"
+            "img": "img/puchatek/puchatek-1.webp"
         },
         {
             "name": "puchatek",
-            "img": "img/puchatek/puchatek-2.png"
+            "img": "img/puchatek/puchatek-2.webp"
         },
         {
             "name": "rabbit",
-            "img": "img/puchatek/rabbit-1.png"
+            "img": "img/puchatek/rabbit-1.webp"
         },
         {
             "name": "rabbit",
-            "img": "img/puchatek/rabbit-2.png"
+            "img": "img/puchatek/rabbit-2.webp"
         },
         {
             "name": "sowa",
-            "img": "img/puchatek/sowa-1.png"
+            "img": "img/puchatek/sowa-1.webp"
         },
         {
             "name": "sowa",
-            "img": "img/puchatek/sowa-2.png"
+            "img": "img/puchatek/sowa-2.webp"
         },
         {
             "name": "tygrysek",
-            "img": "img/puchatek/tygrysek-1.png"
+            "img": "img/puchatek/tygrysek-1.webp"
         },
         {
             "name": "tygrysek",
-            "img": "img/puchatek/tygrysek-2.png"
+            "img": "img/puchatek/tygrysek-2.webp"
         }
     ]
 }

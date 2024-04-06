@@ -44,7 +44,7 @@ function checkMatch() {
             cards[cardId].classList.add('cardFlipped')
 
             setTimeout(function () {
-                cards[cardId].setAttribute('src', 'img/' + whichGame + '/0.png')
+                cards[cardId].setAttribute('src', 'img/' + whichGame + '/0.webp')
                 cards[cardId].classList.remove('cardFlipped')
                 cards[cardId].addEventListener('click', flipCard)
                 if (!cards[cardId].hasAttribute('data-clicked')) {
@@ -88,7 +88,7 @@ function createBoard() {
     for (let i = 0; i < cardsArray.length; i++) {
         const card = document.createElement('img')
         card.classList.add('card')
-        card.setAttribute('src', 'img/' + whichGame + '/0.png')
+        card.setAttribute('src', 'img/' + whichGame + '/0.webp')
         card.setAttribute('data-id', i)
         card.setAttribute('draggable', false)
         card.addEventListener('click', flipCard)
