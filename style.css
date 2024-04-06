@@ -1,52 +1,98 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    cursor: default;
 }
 
 body {
-    background-color: #373737;
-    cursor: default;
+    background-color: #1E90FF;
     color: #fff;
     font-size: 16px;
-    margin-bottom: 10px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    margin-bottom: 25px;
 }
 
 h1 {
     text-align: center;
     font-size: 3em;
-    padding-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 15px;
 }
 
 h1 a {
     text-decoration: none;
     color: #fff;
-    cursor: default;
+    cursor: pointer;
 }
 
-h3 {
-    max-width: 800px;
-    margin: 10px auto;
+h2 {
+    margin: 5px auto;
     display: flex;
     justify-content: space-between;
+    font-size: 1.75em;
 }
 
 main {
     max-width: 800px;
-    min-height: 800px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-content: space-around;
-    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px auto 25px;
+    padding: 5px;
+    border-radius: 15px;
+    gap: 8px;
 }
 
-img, main {
+
+
+body>footer {
+    text-align: center;
+    padding: 15px 5px;
+}
+
+body>footer>a {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+body>footer img {
+    vertical-align: bottom;
+    width: 24px;
+    height: 24px;
+    margin: 0 8px;
+}
+
+h1,
+body>footer {
+    background-color: #0c70dd;
+}
+
+
+img,
+main {
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    -webkit-user-drag: none;
-    -webkit-touch-callout: none;
+}
+
+.scores {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
 }
 
 
@@ -54,13 +100,13 @@ img, main {
 .menu {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-content: space-around;
+    justify-content: center;
+    gap: 35px;
+    margin: 15px;
 }
 
 .menuItem {
     text-align: center;
-    margin: 10px;
 }
 
 .menuItem img {
@@ -75,6 +121,8 @@ img, main {
 
 .menuItem img:hover {
     filter: brightness(100%);
+    border-color: rgba(72, 135, 202, 0.8);
+    box-shadow: 0 0 90px 30px rgba(72, 135, 202, 0.8);
 }
 
 
@@ -85,17 +133,17 @@ img, main {
     border: 1px solid #000;
     border-radius: 5px;
     cursor: pointer;
-    margin: 2px;
     perspective: 450px;
     filter: brightness(70%);
     will-change: transform;
     transform-style: preserve-3d;
     transition: all .5s ease-in-out;
     backface-visibility: hidden;
+    background-color: #434C55;
 }
 
 .card:hover {
-    border-color: #9e8006;
+    border-color: #f92;
     filter: brightness(100%);
 }
 
@@ -105,7 +153,6 @@ img, main {
     border: 1px solid #9e8006;
     border-radius: 5px;
     cursor: default;
-    margin: 2px;
     filter: brightness(100%);
     animation: showImg .3s ease-out;
 }
@@ -115,13 +162,22 @@ img, main {
 }
 
 @keyframes showImg {
-    0% { opacity: 0; transform: rotateY(180deg); }
-    100% { opacity: 1; }
+    0% {
+        opacity: 0;
+        transform: rotateY(180deg);
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
+
+
 
 .endGame {
     font-size: 1.5em;
     text-align: center;
+    padding: 15px 10px;
 }
 
 .endGame a {
@@ -139,4 +195,31 @@ img, main {
     color: #fff;
     border-color: #bfa228;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    cursor: pointer;
+}
+
+
+
+.instruction {
+    margin: 50px auto 25px;
+    text-align: left;
+    color: white;
+    padding: 10px 15px;
+    max-width: 800px;
+}
+
+.instruction>p {
+    padding: 5px 10px;
+    font-size: 1.25em;
+    line-height: 1.5;
+}
+
+main,
+.scores,
+.instruction {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 14px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255, 255, 255, 0.3);
 }

@@ -3,6 +3,7 @@ let whichGame
 
 const menuItems = document.querySelectorAll('.menuItem img')
 const gridDisplay = document.querySelector('main')
+const instructionDisplay = document.querySelector('.instruction')
 const resultDisplay = document.querySelector('#result')
 const attemptDisplay = document.querySelector('#attempt')
 const cardsWon = []
@@ -13,42 +14,36 @@ let lock = false
 let numbersOfAllPairs = 0
 
 
-function updateScore()
-{
+function updateScore() {
     attemptDisplay.textContent = ++attempt
     resultDisplay.textContent = cardsWon.length + ' / ' + numbersOfAllPairs
 }
 
 
-function checkEndGame()
-{
-    if(cardsWon.length == cardsArray.length/2)
-    {
+function checkEndGame() {
+    if (cardsWon.length == cardsArray.length / 2) {
         const esterEgg1 = (whichGame === 'pokemon') ? 'catch' : 'found'
-        gridDisplay.innerHTML = '<p class="endGame">Congratulations You '+esterEgg1+' them all!<br><br><a href="index.html">New Game</a></p>'
+        gridDisplay.innerHTML = '<p class="endGame">Congratulations You ' + esterEgg1 + ' them all!<br><br><a href="index.html">New Game</a></p>'
     }
 }
 
 
-function checkMatch()
-{
+function checkMatch() {
     const cards = document.querySelectorAll('main > img.card')
 
-    if(selectCards[0] == selectCards[1])
-    {
+    if (selectCards[0] == selectCards[1]) {
         selectCardIds.forEach(cardId => {
             cards[cardId].style.opacity = 0
         })
 
         cardsWon.push(selectCards)
     }
-    else
-    {
+    else {
         selectCardIds.forEach(cardId => {
             cards[cardId].classList.remove('cardActive')
             cards[cardId].classList.add('cardFlipped')
 
-            setTimeout(function() {
+            setTimeout(function () {
                 cards[cardId].setAttribute('src', 'img/' + whichGame + '/0.png')
                 cards[cardId].classList.remove('cardFlipped')
                 cards[cardId].addEventListener('click', flipCard)
@@ -68,8 +63,7 @@ function checkMatch()
 }
 
 
-function flipCard()
-{
+function flipCard() {
     if (lock) return false
 
     let cardId = this.getAttribute('data-id')
@@ -81,23 +75,20 @@ function flipCard()
     this.removeEventListener('click', flipCard)
     this.classList.add('cardActive')
 
-    if(selectCards.length === 2)
-    {
+    if (selectCards.length === 2) {
         lock = true
         setTimeout(checkMatch, 1000)
     }
 }
 
 
-function createBoard()
-{
+function createBoard() {
     resultDisplay.textContent = cardsWon.length + ' / ' + numbersOfAllPairs
 
-    for(let i = 0; i < cardsArray.length; i++)
-    {
+    for (let i = 0; i < cardsArray.length; i++) {
         const card = document.createElement('img')
         card.classList.add('card')
-        card.setAttribute('src', 'img/'+whichGame+'/0.png')
+        card.setAttribute('src', 'img/' + whichGame + '/0.png')
         card.setAttribute('data-id', i)
         card.setAttribute('draggable', false)
         card.addEventListener('click', flipCard)
@@ -106,24 +97,24 @@ function createBoard()
 }
 
 
-async function runGame()
-{
+async function runGame() {
     whichGame = this.getAttribute('alt').toLowerCase()
+    instructionDisplay.style.display = 'none'
 
-    const grid = this.nextElementSibling.innerText.slice(1,-1).split("x")
+    const grid = this.nextElementSibling.innerText.slice(1, -1).split("x")
     let gridCol = grid[0]
     let gridRow = grid[1]
-    let gridWidth = gridCol*125+gridCol*10
-    let gridHeight = gridRow*125+gridRow*10
+    let gridWidth = gridCol * 125 + gridCol * 10
+    let gridHeight = gridRow * 125 + gridRow * 10
 
-    let response = await fetch("./jsons/"+whichGame+".json")
+    let response = await fetch("./jsons/" + whichGame + ".json")
     let data = await response.json()
     cardsArray = data.cards
 
     cardsArray.sort(() => 0.5 - Math.random())
 
     gridDisplay.innerHTML = ''
-    gridDisplay.style.maxWidth = gridWidth+'px'
+    gridDisplay.style.maxWidth = gridWidth + 'px'
     gridDisplay.style.minHeight = gridHeight + 'px'
 
     numbersOfAllPairs = cardsArray.length / 2
