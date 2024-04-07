@@ -67,18 +67,23 @@ function flipCard() {
     if (lock) return false
 
     let cardId = this.getAttribute('data-id')
+    let card = this
 
     selectCards.push(cardsArray[cardId].name)
     selectCardIds.push(cardId)
 
-    this.setAttribute('src', cardsArray[cardId].img)
-    this.removeEventListener('click', flipCard)
-    this.classList.add('cardActive')
+    let img = new Image();
+    img.onload = function () {
+        card.setAttribute('src', cardsArray[cardId].img)
+        card.removeEventListener('click', flipCard)
+        card.classList.add('cardActive')
 
-    if (selectCards.length === 2) {
-        lock = true
-        setTimeout(checkMatch, 1000)
-    }
+        if (selectCards.length === 2) {
+            lock = true
+            setTimeout(checkMatch, 1000)
+        }
+    };
+    img.src = cardsArray[cardId].img;
 }
 
 
